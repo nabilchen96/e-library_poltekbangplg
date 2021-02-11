@@ -14,7 +14,7 @@
 # .project
 # .idea
 # .vscode
-# sysconfig.local.inc.php
+sysconfig.local.inc.php
 config/sysconfig.local.inc.php
 # sysconfig.inc.php
 # slims8_akasia.sublime-project
