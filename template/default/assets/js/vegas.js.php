@@ -15,9 +15,9 @@
         animation: '<?= $sysconf['template']['classic_slide_animation']; ?>',
         slides: [
             { src: "<?php echo CURRENT_TEMPLATE_DIR; ?>assets/images/slide1.jpg" },
-            { src: "<?php echo CURRENT_TEMPLATE_DIR; ?>assets/images/slide2.jpg" },
-            { src: "<?php echo CURRENT_TEMPLATE_DIR; ?>assets/images/slide3.jpg" },
-            { src: "<?php echo CURRENT_TEMPLATE_DIR; ?>assets/images/slide4.jpg" }
+            // { src: "<?php echo CURRENT_TEMPLATE_DIR; ?>assets/images/slide2.jpg" },
+            // { src: "<?php echo CURRENT_TEMPLATE_DIR; ?>assets/images/slide3.jpg" },
+            // { src: "<?php echo CURRENT_TEMPLATE_DIR; ?>assets/images/slide4.jpg" }
         ]
     });
 </script>

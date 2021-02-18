@@ -7734,7 +7734,7 @@ msgstr "Membuat gugus pencarian ..."
 #: template/default/visitor_template.php:32
 #: template/lightweight/visitor_template.php:32
 msgid "Visitor Counter"
-msgstr "Penghitung Jumlah Pengunjung"
+msgstr "Visitor Counter"
 
 #: template/classic-dz/visitor_template.php:47
 #: template/classic/visitor_template.php:47

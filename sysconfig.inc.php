@@ -670,12 +670,12 @@ $sysconf['system_user_type'][2] = __('Senior Librarian');
 $sysconf['system_user_type'][3] = __('Library Staff');
 
 // redirect to mobile template on mobile mode
-if (defined('LIGHTWEIGHT_MODE') AND !isset($_COOKIE['FULLSITE_MODE']) AND $sysconf['template']['responsive'] === false) {
-  $sysconf['template']['theme'] = 'lightweight';
-  $sysconf['template']['css'] = $sysconf['template']['dir'].'/'.$sysconf['template']['theme'].'/style.css';
-  $sysconf['enable_xml_detail'] = false;
-  $sysconf['enable_xml_result'] = false;
-}
+// if (defined('LIGHTWEIGHT_MODE') AND !isset($_COOKIE['FULLSITE_MODE']) AND $sysconf['template']['responsive'] === false) {
+//   $sysconf['template']['theme'] = 'lightweight';
+//   $sysconf['template']['css'] = $sysconf['template']['dir'].'/'.$sysconf['template']['theme'].'/style.css';
+//   $sysconf['enable_xml_detail'] = false;
+//   $sysconf['enable_xml_result'] = false;
+// }
 
 // visitor limitation
 $sysconf['enable_counter_by_ip'] = true;

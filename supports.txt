@@ -6,3 +6,8 @@ direct or indirectly:
 3. Lembaga Riset Eijkman
 4. Sekolah Stella Maris
 
+Konfigurasi
+1. mengganti slide slim di vegas.js.php
+2. mengganti logo di parts/_navbar.php
+3. 
+
